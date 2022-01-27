@@ -1,4 +1,4 @@
-# LAB 1
+# LAB 1 & 2
 
 ## Question 8
 
