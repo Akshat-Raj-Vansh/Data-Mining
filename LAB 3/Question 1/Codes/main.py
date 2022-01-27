@@ -21,6 +21,9 @@ def writeToFile(filename):
     file.writelines(randomString)
     file.close()
 
+def readFile(filename):
+    file = open(filename.encode('unicode_escape'), 'r+')
+    file.close()
 
 def main():
     directory = os.getcwd()
