@@ -10,6 +10,7 @@ import string
 
 def encodeString(word):
     return word.encode('unicode_escape')
+    
 
 
 def updateFile(filename):
